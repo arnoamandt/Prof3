@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Arnoamandt2017",
-    "currentPage": "index.html",
+    "currentPage": "Landscape.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -225,7 +225,7 @@
     },
     "Portraits.html": {
       "settings": {
-        "title": "Web Page Builder Title",
+        "title": "Portraits",
         "meta_descr": "Web Page Builder Description"
       },
       "components": [
@@ -271,7 +271,7 @@
           },
           "title1": "gezichtsfacetten",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Hoe bereik je het gevoel dat een portret naar je terug kan kijken? &nbsp;",
+          "caption1": "Wanneer is een portret individueel genoeg? &nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"facetten.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
@@ -319,7 +319,7 @@
           },
           "title4": "Vage aanwezigheid",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Kan een geportretteerd individu aanwezig zen afwezig zijn op hetzelfde doek?",
+          "caption4": "Kan een geportretteerd individu aanwezig zijn en afwezig zijn op hetzelfde doek?",
           "button4": "<a data-app-btn=\"true\" href=\"vagerportret.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
@@ -375,13 +375,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#c1c1c1"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#c1c1c1"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#c1c1c1"
+              "color": "#000000"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -402,7 +402,7 @@
               "background": "#7c706b"
             },
             ".bg-color.transparent .link": {
-              "color": "#c1c1c1",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -448,13 +448,13 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Portraits.html\">Portraits</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Landscapes</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Others</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Portraits.html\">Portraits</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Landscape.html\">Landscapes</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Others</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
         }
       ]
     },
     "Blikogen.html": {
       "settings": {
-        "title": "Web Page Creator Title",
+        "title": "Ogen",
         "meta_descr": "Web Page Creator Description"
       },
       "components": [
@@ -729,7 +729,7 @@
     },
     "facetten.html": {
       "settings": {
-        "title": "Site Builder Title",
+        "title": "Gezichtsfacetten",
         "meta_descr": "Site Builder Description"
       },
       "components": [
@@ -984,7 +984,7 @@
     },
     "andersogen.html": {
       "settings": {
-        "title": "Website Maker Title",
+        "title": "Anti-idee",
         "meta_descr": "Website Maker Description"
       },
       "components": [
@@ -1179,7 +1179,7 @@
     },
     "vagerportret.html": {
       "settings": {
-        "title": "Website Builder Title",
+        "title": "Witter",
         "meta_descr": "Website Builder Description"
       },
       "components": [
@@ -1315,16 +1315,47 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mg-2000x2697-800x1078.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-mg-2000x2697.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x2683-800x1073.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x2683.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x2688-800x1075.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x2688.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/portret-van-familie-2000x2674-800x1069.jpg",
+                "image": "@PROJECT_PATH@/assets/images/portret-van-familie-2000x2674.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/zelfportret-met-weinig-kleur-800x1063.png",
+                "image": "@PROJECT_PATH@/assets/images/zelfportret-met-weinig-kleur.gif",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": "3",
@@ -1343,7 +1374,7 @@
     },
     "contact.html": {
       "settings": {
-        "title": "Web Site Builder Title",
+        "title": "Contact",
         "meta_descr": "Web Site Builder Description"
       },
       "components": [
@@ -1398,7 +1429,7 @@
           "form": {
             "action": "arno.amandt@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for your message!"
             },
             "fields": {
               "name": {
@@ -1512,7 +1543,7 @@
     },
     "Landscape.html": {
       "settings": {
-        "title": "Web Site Generator Title",
+        "title": "Lanscape",
         "meta_descr": "Web Site Generator Description"
       },
       "components": [
@@ -1648,61 +1679,37 @@
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-2-1300x1289-2000x1983-800x793.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-2-1300x1289-2000x1983.jpg",
                 "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x5168-800x2067.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2000x5168.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/naamloos-2000x2376-800x950.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naamloos-2000x2376.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/naamloos-1b-2000x2376-800x950.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naamloos-1b-2000x2376.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": "3",
