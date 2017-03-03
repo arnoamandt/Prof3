@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Arnoamandt2017",
-    "currentPage": "index.html",
+    "currentPage": "Landscape.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,14 +26,15 @@
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": ""
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-93010418-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "Home",
+        "meta_descr": "Home",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -226,7 +227,7 @@
     "Portraits.html": {
       "settings": {
         "title": "Portraits",
-        "meta_descr": "Web Page Builder Description"
+        "meta_descr": "Portraits, four, pages"
       },
       "components": [
         {
@@ -455,7 +456,7 @@
     "Blikogen.html": {
       "settings": {
         "title": "Ogen",
-        "meta_descr": "Web Page Creator Description"
+        "meta_descr": "Blik, Many, faces"
       },
       "components": [
         {
@@ -730,7 +731,7 @@
     "facetten.html": {
       "settings": {
         "title": "Gezichtsfacetten",
-        "meta_descr": "Site Builder Description"
+        "meta_descr": "Facetten, andere, delen"
       },
       "components": [
         {
@@ -985,7 +986,7 @@
     "andersogen.html": {
       "settings": {
         "title": "Anti-idee",
-        "meta_descr": "Website Maker Description"
+        "meta_descr": "met, ogen, zonder, ogen"
       },
       "components": [
         {
@@ -1180,7 +1181,7 @@
     "vagerportret.html": {
       "settings": {
         "title": "Witter",
-        "meta_descr": "Website Builder Description"
+        "meta_descr": "Vager, ogen"
       },
       "components": [
         {
@@ -1375,7 +1376,7 @@
     "contact.html": {
       "settings": {
         "title": "Contact",
-        "meta_descr": "Web Site Builder Description"
+        "meta_descr": "Contact"
       },
       "components": [
         {
@@ -1544,7 +1545,7 @@
     "Landscape.html": {
       "settings": {
         "title": "Lanscape",
-        "meta_descr": "Web Site Generator Description"
+        "meta_descr": "Landscape"
       },
       "components": [
         {
