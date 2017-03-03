@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Arnoamandt2017",
-    "currentPage": "Landscape.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -255,7 +255,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -263,13 +263,13 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "facetten.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
             }
           },
-          "title1": "gezichtsfacetten",
+          "title1": "Gezichtsfacetten",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Wanneer is een portret individueel genoeg? &nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"facetten.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
@@ -279,7 +279,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "Blikogen.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -291,11 +291,11 @@
           "button2": "<a data-app-btn=\"true\" href=\"Blikogen.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mg07-600x603.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-mg-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "andersogen.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -307,11 +307,11 @@
           "button3": "<a data-app-btn=\"true\" href=\"andersogen.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mg-600x806.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-mg-600x809.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "vagerportret.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -1422,10 +1422,10 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubTitle": true
+            "showSubTitle": false
           },
-          "title": "CONTACT&nbsp;",
-          "subtitle": "Email: arno.amandt@gmail.com<br>Gsm nummer: 0448288528586 &nbsp;",
+          "title": "Reaction&nbsp;",
+          "subtitle": "&nbsp;&nbsp;",
           "form": {
             "action": "arno.amandt@gmail.com",
             "alerts": {
@@ -1712,7 +1712,7 @@
                 "active": true
               }
             ],
-            "spacing": "3",
+            "spacing": "2",
             "showText": false,
             "filter": false,
             "bgColor": "fff",
