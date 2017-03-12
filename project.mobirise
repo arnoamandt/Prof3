@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Arnoamandt2017",
-    "currentPage": "Landscape.html",
+    "currentPage": "figuren.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2138,7 +2138,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-5719n-2000x2636-800x1054.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-5719n-2000x2636.jpg",
-                "caption": "Type caption here",
+                "caption": "",
                 "active": false
               },
               {
@@ -2148,7 +2148,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-5290-1400x1052-10-1400x1052-2000x1502-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-5290-1400x1052-10-1400x1052-2000x1502.jpg",
-                "caption": "Type caption here",
+                "caption": "29,7cm x 42cm",
                 "active": false
               },
               {
@@ -2158,7 +2158,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-5304-1020x1400-2000x2745-800x1098.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-5304-1020x1400-2000x2745.jpg",
-                "caption": "Type caption here",
+                "caption": "29,7cm x 42cm",
                 "active": false
               },
               {
@@ -2168,7 +2168,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-5-800x1265.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mg-5.jpg",
-                "caption": "Type caption here",
+                "caption": "16cm x 25cm",
                 "active": false
               },
               {
@@ -2178,7 +2178,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-6-800x930.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mg-6.jpg",
-                "caption": "Type caption here",
+                "caption": "",
                 "active": false
               },
               {
@@ -2188,7 +2188,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-7-800x1314.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mg-7.jpg",
-                "caption": "Type caption here",
+                "caption": "16cm x 25,5cm",
                 "active": false
               },
               {
@@ -2198,7 +2198,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-8-800x1072.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mg-8.jpg",
-                "caption": "Type caption here",
+                "caption": "29,7cm x 42cm",
                 "active": false
               },
               {
@@ -2209,11 +2209,21 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mg-9-800x1098.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mg-9.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-11-800x758.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-11.jpg",
+                "caption": "13,3cm x 12,5cm",
                 "active": true
               }
             ],
             "spacing": "3",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "fff",
             "filterBgColor": false,
@@ -2353,7 +2363,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-800x553.png",
                 "image": "@PROJECT_PATH@/assets/images/img.gif",
-                "caption": "Type caption here",
+                "caption": "29,7cm x 42cm",
                 "active": false
               },
               {
@@ -2363,7 +2373,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-1-800x546.png",
                 "image": "@PROJECT_PATH@/assets/images/img-1.gif",
-                "caption": "Type caption here",
+                "caption": "29,7cm x 42cm",
                 "active": false
               },
               {
@@ -2373,7 +2383,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-9885-983x1400-2000x2848-800x1139.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mg-9885-983x1400-2000x2848.jpg",
-                "caption": "Type caption here",
+                "caption": "21 cm x 29,7cm",
                 "active": false
               },
               {
@@ -2383,7 +2393,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-10-800x558.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mg-10.jpg",
-                "caption": "Type caption here",
+                "caption": "14,8cm x 21cm",
                 "active": false
               },
               {
@@ -2393,7 +2403,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-800x1123.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mg.jpg",
-                "caption": "Type caption here",
+                "caption": "14,8cm x 21cm",
                 "active": false
               },
               {
@@ -2403,7 +2413,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-1-800x1179.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mg-1.jpg",
-                "caption": "Type caption here",
+                "caption": "14,8cm x 21cm",
                 "active": false
               },
               {
@@ -2413,7 +2423,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-2-800x1156.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mg-2.jpg",
-                "caption": "Type caption here",
+                "caption": "14,7cm x 21cm",
                 "active": false
               },
               {
@@ -2423,7 +2433,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-3-800x558.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mg-3.jpg",
-                "caption": "Type caption here",
+                "caption": "14,7cm x 21cm",
                 "active": false
               },
               {
@@ -2433,7 +2443,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-3-800x562.png",
                 "image": "@PROJECT_PATH@/assets/images/mg-3.gif",
-                "caption": "Type caption here",
+                "caption": "14,7cm x 21cm",
                 "active": false
               },
               {
@@ -2443,7 +2453,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-5-800x1094.png",
                 "image": "@PROJECT_PATH@/assets/images/mg-5.gif",
-                "caption": "Type caption here",
+                "caption": "14,7cm x 21cm",
                 "active": true
               },
               {
@@ -2453,12 +2463,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-4-800x1134.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mg-4.jpg",
-                "caption": "Type caption here",
+                "caption": "14,7cm x 21cm",
                 "active": false
               }
             ],
             "spacing": "2",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "fff",
             "filterBgColor": false,
