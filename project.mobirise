@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Arnoamandt2017",
-    "currentPage": "figuren.html",
+    "currentPage": "Portraits.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -260,7 +260,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mg-600x395.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mg-15.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -710,6 +710,36 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-1-2000x1321-800x528.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-mg-1-2000x1321.jpg",
+                "caption": "12cm x 18cm",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-12-800x529.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-12.jpg",
+                "caption": "12cm x 18cm",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-13-800x529.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-13.jpg",
+                "caption": "12cm x 18cm",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-14-800x536.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-14.jpg",
                 "caption": "12cm x 18cm",
                 "active": true
               }
@@ -2219,6 +2249,16 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mg-11-800x758.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mg-11.jpg",
                 "caption": "13,3cm x 12,5cm",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-800x598.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img.jpg",
+                "caption": "13,3cm x 12,5cm",
                 "active": true
               }
             ],
@@ -2454,7 +2494,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mg-5-800x1094.png",
                 "image": "@PROJECT_PATH@/assets/images/mg-5.gif",
                 "caption": "14,7cm x 21cm",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -2464,7 +2504,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mg-4-800x1134.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mg-4.jpg",
                 "caption": "14,7cm x 21cm",
-                "active": false
+                "active": true
               }
             ],
             "spacing": "2",
