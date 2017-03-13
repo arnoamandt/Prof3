@@ -924,6 +924,13 @@ h6,
 #menu-x .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header3-1x .mbr-section-title,
+#header3-1x .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1x H3 {
+  font-size: 24px;
+}
 #menu-11 .hide-buttons .nav-btn {
   display: none !important;
 }
