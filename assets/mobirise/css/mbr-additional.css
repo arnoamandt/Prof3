@@ -6,6 +6,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -477,6 +478,21 @@ h6,
 #header1-1 .mbr-section-title {
   font-family: 'Roboto', sans-serif;
   color: #efefef;
+}
+#content5-11 .mbr-section-title,
+#content5-11 p {
+  color: #fff;
+}
+#content5-11 .mbr-section-title {
+  color: #a38f84;
+  font-size: 14px;
+  font-family: 'Roboto', sans-serif;
+}
+#content5-11 P {
+  color: #c1c1c1;
+}
+#content5-11 DIV {
+  color: #7c706b;
 }
 #menu-3 .hide-buttons .nav-btn {
   display: none !important;
